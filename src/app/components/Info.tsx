@@ -22,7 +22,7 @@ export function Info() {
       {/* Col 2 — bio text */}
       <div style={{ display: "flex", flexDirection: "column", gap: "0" }}>
         <p style={text}>
-          Charlotte Mandell is an artist, creative director and producer based in London, relocating to Brussels in Autumn 2026.
+          Charlotte Mandell is an artist, creative director and producer based in London.
         </p>
         <p style={{ ...text, marginTop: "10px" }}>
           She's the Founder and Director of{" "}
